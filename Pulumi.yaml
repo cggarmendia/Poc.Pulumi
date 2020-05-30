@@ -1,0 +1,3 @@
+name: gat-ci-cd
+runtime: nodejs
+description: pulumi project of the gat project.
